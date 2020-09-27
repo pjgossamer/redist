@@ -6,4 +6,5 @@ This repository is used for redistributing the Unreal Engine 4.19 prerequisites 
 
 | Unreal Engine Version: | 64-Bit | 32-Bit |
 | :---: | :---: | :---: |
-| 4.19 | [:package:exe](https://github.com/pjgossamer/redist/releases/download/ue_4.19/UE4PrereqSetup_x64.exe) | [:package:exe](/https://github.com/pjgossamer/redist/releases/download/ue_4.19/UE4PrereqSetup_x86.exe) |
+| 4.24 | [:package:exe](https://github.com/pjgossamer/redist/releases/download/ue_4.24/UE4PrereqSetup_x64.exe) | [:package:exe] (https://github.com/pjgossamer/redist/releases/download/ue_4.24/UE4PrereqSetup_x86.exe) |
+| 4.19 | [:package:exe](https://github.com/pjgossamer/redist/releases/download/ue_4.19/UE4PrereqSetup_x64.exe) | [:package:exe](https://github.com/pjgossamer/redist/releases/download/ue_4.19/UE4PrereqSetup_x86.exe) |
